@@ -1,5 +1,5 @@
 # SQL_Aprendizagem
-📚 Documentação de Aprendizado em SQL - Nível Básico a Intermediário 🚀
+📚 Documentação do meu Aprendizado em SQL - 🚀
 
 ## 1. Fundamentos do SQL
 
