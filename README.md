@@ -2,11 +2,10 @@
 "📚 Documentação de Aprendizado em SQL - Nível Básico a Intermediário 🚀
 
 
- 
-     
+      
 
 
-1 Cada linha representa um registro e cada coluna representa um atributo.
+ Cada linha representa um registro e cada coluna representa um atributo.
 A criação de tabelas é realizada com o comando  CREATE TABLE.
 
 CREATE TABLE Clientes (
